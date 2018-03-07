@@ -1,6 +1,13 @@
 Minecraft Server
 ================
 
+_Updated: 2018-03-06_
+
+Ubuntu version update to 16.04
+Update to OpenJDK 8
+Minecraft update to 1.12.2
+
+
 All-in-one Minecraft Server in a Docker container
 
 * [Minecraft](https://minecraft.net/download)
