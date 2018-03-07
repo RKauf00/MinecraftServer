@@ -1,9 +1,9 @@
 Minecraft Server
 ================
 
-_Updated: 2018-03-06_
-
 Version updates: Ubuntu 16.04, OpenJDK 8, and Minecraft 1.12.2.
+
+_Updated: 2018-03-06_
 
 All-in-one Minecraft Server in a Docker container
 
